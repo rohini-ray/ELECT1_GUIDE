@@ -1,10 +1,6 @@
 {
-  "name": "Remix: Civic Guide India: Voter Explorer",
+  "name": "Civic Guide India: Voter Explorer",
   "description": "An interactive platform to help Indian citizens understand the voter registration process, election timelines, and ECI guidelines with AI assistance.",
   "requestFramePermissions": [],
-  "majorCapabilities": [
-    "Voter ID registration guide",
-    "ECI election timelines",
-    "AI-powered civic assistant"
-  ]
+  "majorCapabilities": []
 }
